@@ -52,9 +52,6 @@ This is what went down in the various game modes during August:
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 
-## New features in osu!(lazer)
-- Put the next osu!(lazer) update video https://www.youtube.com/c/osugame
-
 ## osu! community fact
 
 ## Monthly community quiz
