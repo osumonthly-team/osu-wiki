@@ -1,17 +1,17 @@
-# osu! wiki
+# osu!monthly (osu!wiki fork)
 
-[![dev chat](https://discordapp.com/api/guilds/188630481301012481/widget.png?style=shield)](https://discord.gg/ppy)
+## Contributing to the osu!monthly
+You want to add your section ? Just follow the steps !
 
-Home of the [osu! wiki](https://osu.ppy.sh/wiki).
+You'll need :
+- A code editor ([Visual Studio Code](https://code.visualstudio.com/), [Atom](https://atom.io/), etc...)
+- A working installation of [git](https://git-scm.com/)
+- [Github Desktop](https://desktop.github.com/) if not confident with git. (here's a tutorial [video](https://youtu.be/77W2JSL7-r8) :D)
+- A clone of this repository
 
-## Contributing
+Then, just modify this month's file (/news/[date]-osumonthly-[numero]). Things can get a little scary if you're new to this, but we'll review your changes.
 
-Please see [the "contributing" file](CONTRIBUTING.md) if you are interested in helping out with the project!
+When you're done, you can, in Github Desktop, do what we call a PR (Pull Request). It is a safe method to include your changes.
 
-## Licence
-
-The majority of content in this repository is licensed under [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode). Please see [the licence file](LICENCE.md) for more information. [tl;dr](https://tldrlegal.com/license/creative-commons-attribution-noncommercial-4.0-international-(cc-by-nc-4.0)) you can use it in a non-commercial manner.
-
-As this is a wiki, there may be content with third party licences. These licences will be cited local to the content, and override the global licence file.
-
-Please note that this *does not cover* the usage of the "osu!" or "ppy" branding in any software, resources, advertising or promotion, as this is protected by trademark law. If you require clearance for the use of these terms, please [contact us](mailto:contact@ppy.sh).
+## Thanks
+We'd like to thank all the people who'll contribute to this project :)
